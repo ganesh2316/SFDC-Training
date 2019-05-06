@@ -1,0 +1,8 @@
+Dear  {!Contact.FirstName},
+
+We are glad to have {!Account.Name} as a customer.
+Thank you for placing order with us.
+Your Order ID is {!Order__c.Name}
+
+Best Regards, 
+{!User.Name}

@@ -1,36 +1,1074 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>*</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types>
-    <version>45.0</version>
+  <types>
+    <members>AccountHandler</members>
+    <members>BotController</members>
+    <members>BotField</members>
+    <members>BotHandler</members>
+    <members>BotItem</members>
+    <members>BotMessage</members>
+    <members>BotMessageButton</members>
+    <members>BotRecord</members>
+    <members>BotResponse</members>
+    <members>BotTest</members>
+    <members>ContactSearch</members>
+    <members>CountNumberOfSegments</members>
+    <members>CustomException</members>
+    <members>DistanceCalculator</members>
+    <members>DreamHouseSampleDataController</members>
+    <members>EinsteinVisionController</members>
+    <members>EinsteinVisionControllerTest</members>
+    <members>EmailManager</members>
+    <members>HandlerAddTwoNumbers</members>
+    <members>HandlerCostCenter</members>
+    <members>HandlerEmployeeId</members>
+    <members>HandlerFileUpload</members>
+    <members>HandlerFindAccount</members>
+    <members>HandlerFindContact</members>
+    <members>HandlerFindProperties</members>
+    <members>HandlerFindPropertiesByBedrooms</members>
+    <members>HandlerHello</members>
+    <members>HandlerHelp</members>
+    <members>HandlerHelpTopic</members>
+    <members>HandlerImageBasedSearch</members>
+    <members>HandlerMyOpenCases</members>
+    <members>HandlerNext</members>
+    <members>HandlerPipeline</members>
+    <members>HandlerQuarter</members>
+    <members>HandlerSOQL</members>
+    <members>HandlerTopOpportunities</members>
+    <members>HandlerTravelApproval</members>
+    <members>HttpFormBuilder</members>
+    <members>JWT</members>
+    <members>JWTBearerFlow</members>
+    <members>LIFXController</members>
+    <members>LIFXControllerTest</members>
+    <members>ObjectNameAndTypeFinder</members>
+    <members>OlderAccountsUtility</members>
+    <members>OpportunitySummary</members>
+    <members>PostPriceChangeToSlack</members>
+    <members>PostPriceChangeToSlackTest</members>
+    <members>PropertyController</members>
+    <members>PropertyControllerTest</members>
+    <members>PropertyPagedResult</members>
+    <members>PushPriceChangeNotification</members>
+    <members>PushPriceChangeNotificationTest</members>
+    <members>RejectDuplicateFavoriteTest</members>
+    <members>SlackOpportunityPublisher</members>
+    <members>SlackOpportunityPublisherTest</members>
+    <members>StringArrayTest</members>
+    <name>ApexClass</name>
+  </types>
+  <types>
+    <members>DreamHouseSampleData</members>
+    <members>HeatMap</members>
+    <members>HeatMapMock</members>
+    <name>ApexPage</name>
+  </types>
+  <types>
+    <members>PushNotificationTrigger</members>
+    <members>RejectDuplicateFavorite</members>
+    <name>ApexTrigger</name>
+  </types>
+  <types>
+    <members>AppSwitcher</members>
+    <members>Salesforce1</members>
+    <name>AppMenu</name>
+  </types>
+  <types>
+    <members>Case.Standard</members>
+    <members>Lead.Standard</members>
+    <name>AssignmentRule</name>
+  </types>
+  <types>
+    <members>Case</members>
+    <members>Lead</members>
+    <name>AssignmentRules</name>
+  </types>
+  <types>
+    <members>Bot</members>
+    <members>DaysOnMarketEstimator</members>
+    <members>EinsteinVision</members>
+    <members>EinsteinVisionCard</members>
+    <members>EinsteinVisionDashboard</members>
+    <members>EinsteinVisionDataset</members>
+    <members>EinsteinVisionDatasetEvent</members>
+    <members>EinsteinVisionEvent</members>
+    <members>FormattedDate</members>
+    <members>Map</members>
+    <members>MapCard</members>
+    <members>MortgageAmortizationChart</members>
+    <members>MortgageCalculator</members>
+    <members>MortgageCalculatorCard</members>
+    <members>MortgageChange</members>
+    <members>PictureCarousel</members>
+    <members>PictureGalleryCard</members>
+    <members>PriceRange</members>
+    <members>PropertyDaysOnMarketChart</members>
+    <members>PropertyListDaysOnMarketChart</members>
+    <members>PropertyPageChange</members>
+    <members>PropertyPaginator</members>
+    <members>PropertySummary</members>
+    <members>PropertyTile</members>
+    <members>PropertyTileList</members>
+    <members>RangeChange</members>
+    <members>SimilarProperties</members>
+    <members>SmartHome</members>
+    <members>SmartHomeCard</members>
+    <members>SmartLights</members>
+    <members>SmartLocks</members>
+    <members>SmartPriceCalculator</members>
+    <members>SmartThermostat</members>
+    <name>AuraDefinitionBundle</name>
+  </types>
+  <types>
+    <members>Case</members>
+    <members>Lead</members>
+    <name>AutoResponseRules</name>
+  </types>
+  <types>
+    <members>SelfSignedCert_23Apr2019_095005</members>
+    <name>Certificate</name>
+  </types>
+  <types>
+    <members>DataCloudGeoLocation</members>
+    <name>CleanDataService</name>
+  </types>
+  <types>
+    <members>Internal Zone</members>
+    <name>Community</name>
+  </types>
+  <types>
+    <members>Broker__c.Broker_Compact</members>
+    <members>Energy_Audit__c.Energy_Audit_Compact_Layout</members>
+    <members>Opportunity.New_Oppty_Compact_Layout</members>
+    <members>Property__c.Property_Compact_Layout</members>
+    <name>CompactLayout</name>
+  </types>
+  <types>
+    <members>AW_Computing_logo</members>
+    <members>diwali</members>
+    <members>dreamhouselogosquare</members>
+    <name>ContentAsset</name>
+  </types>
+  <types>
+    <members>DreamHouse</members>
+    <members>Energy_Consultations</members>
+    <members>Recruiting</members>
+    <members>standard__AppLauncher</members>
+    <members>standard__Chatter</members>
+    <members>standard__Community</members>
+    <members>standard__Content</members>
+    <members>standard__Insights</members>
+    <members>standard__LightningBolt</members>
+    <members>standard__LightningInstrumentation</members>
+    <members>standard__LightningSales</members>
+    <members>standard__LightningSalesConsole</members>
+    <members>standard__LightningService</members>
+    <members>standard__Marketing</members>
+    <members>standard__Platform</members>
+    <members>standard__Sales</members>
+    <members>standard__Service</members>
+    <members>standard__ServiceConsole</members>
+    <members>standard__Sites</members>
+    <name>CustomApplication</name>
+  </types>
+  <types>
+    <members>Account.Active__c</members>
+    <members>Account.CustomerPriority__c</members>
+    <members>Account.Has_Support_Plan__c</members>
+    <members>Account.NumberofLocations__c</members>
+    <members>Account.Potential_Value__c</members>
+    <members>Account.Region__c</members>
+    <members>Account.SLA__c</members>
+    <members>Account.SLAExpirationDate__c</members>
+    <members>Account.SLASerialNumber__c</members>
+    <members>Account.Sum_of_Opportunities__c</members>
+    <members>Account.Support_Plan_Expiration_Date__c</members>
+    <members>Account.UpsellOpportunity__c</members>
+    <members>Account.Zone__c</members>
+    <members>Bot_Command__c.Active__c</members>
+    <members>Bot_Command__c.Apex_Class__c</members>
+    <members>Bot_Command__c.Pattern__c</members>
+    <members>Bot_Command__c.Sample_Utterance__c</members>
+    <members>Broker__c.Email__c</members>
+    <members>Broker__c.Mobile_Phone__c</members>
+    <members>Broker__c.Phone__c</members>
+    <members>Broker__c.Picture__c</members>
+    <members>Broker__c.Picture_IMG__c</members>
+    <members>Broker__c.Title__c</members>
+    <members>Candidate1__c.Candidate_Name__c</members>
+    <members>Candidate1__c.Contact_Number__c</members>
+    <members>Candidate1__c.Email_ID__c</members>
+    <members>Candidate1__c.Highest_Qualification__c</members>
+    <members>Candidate1__c.Year_Of_Industry_Experience__c</members>
+    <members>Candidate__c.City__c</members>
+    <members>Candidate__c.Country__c</members>
+    <members>Candidate__c.Current_Employer__c</members>
+    <members>Candidate__c.Currently_Employed__c</members>
+    <members>Candidate__c.Education__c</members>
+    <members>Candidate__c.Email__c</members>
+    <members>Candidate__c.First_Name__c</members>
+    <members>Candidate__c.Last_Name__c</members>
+    <members>Candidate__c.Legacy_Candidate_Number__c</members>
+    <members>Candidate__c.Mobile__c</members>
+    <members>Candidate__c.Phone__c</members>
+    <members>Candidate__c.State_Province__c</members>
+    <members>Candidate__c.Street_Address_1__c</members>
+    <members>Candidate__c.Street_Address_2__c</members>
+    <members>Candidate__c.Years_of_Experience__c</members>
+    <members>Candidate__c.Zip_Postal_Code__c</members>
+    <members>Case.Backup_Agent__c</members>
+    <members>Case.EngineeringReqNumber__c</members>
+    <members>Case.PotentialLiability__c</members>
+    <members>Case.Product__c</members>
+    <members>Case.SLAViolation__c</members>
+    <members>Company__c.Location__c</members>
+    <members>Contact.Account_Number__c</members>
+    <members>Contact.age__c</members>
+    <members>Contact.Languages__c</members>
+    <members>Contact.Level__c</members>
+    <members>Contact.Location__c</members>
+    <members>Contract.Days_Remaining__c</members>
+    <members>Customer__c.Customer_Email__c</members>
+    <members>Customer__c.Customer_Name__c</members>
+    <members>Customer__c.Customer_Phone__c</members>
+    <members>Dreamhouse_Settings__c.Einstein_Vision_Email__c</members>
+    <members>Dreamhouse_Settings__c.LIFX_Token__c</members>
+    <members>Dreamhouse_Settings__c.LIFX_URL__c</members>
+    <members>Dreamhouse_Settings__c.Light_Service_URL__c</members>
+    <members>Dreamhouse_Settings__c.Push_Server_URL__c</members>
+    <members>Dreamhouse_Settings__c.Slack_Opportunity_Webhook_URL__c</members>
+    <members>Dreamhouse_Settings__c.Slack_Property_Webhook_URL__c</members>
+    <members>Energy_Audit__c.Account__c</members>
+    <members>Energy_Audit__c.Annual_Energy_Usage_KWh__c</members>
+    <members>Energy_Audit__c.Audit_Notes__c</members>
+    <members>Energy_Audit__c.Average_Annual_Electric_Cost__c</members>
+    <members>Energy_Audit__c.Type_Of_Installation__c</members>
+    <members>Favorite__c.Property1__c</members>
+    <members>Favorite__c.Property__c</members>
+    <members>Favorite__c.User__c</members>
+    <members>Goal.OrigGoalId__c</members>
+    <members>Interview__c.Comments__c</members>
+    <members>Interview__c.Company_Name__c</members>
+    <members>Interview__c.Interviewer_Name__c</members>
+    <members>Interview__c.Review__c</members>
+    <members>Interviewer1__c.Company_Name__c</members>
+    <members>Interviewer1__c.Employee_ID__c</members>
+    <members>Interviewer1__c.Employee_Name__c</members>
+    <members>Interviewer1__c.Position_Designation__c</members>
+    <members>Interviewer1__c.Studio__c</members>
+    <members>Interviewer__c.Employee__c</members>
+    <members>Interviewer__c.Legacy_Interviewer_Number__c</members>
+    <members>Interviewer__c.Position__c</members>
+    <members>Job_Application__c.Candidate__c</members>
+    <members>Job_Application__c.Legacy_Job_Application_Number__c</members>
+    <members>Job_Application__c.Position__c</members>
+    <members>Job_Application__c.Stage__c</members>
+    <members>Job_Application__c.Status__c</members>
+    <members>Job_Posting__c.Job_Posting_Site__c</members>
+    <members>Job_Posting__c.Position__c</members>
+    <members>Job_Posting_Site__c.Description__c</members>
+    <members>Job_Posting_Site__c.Job_Posting_Site_URL__c</members>
+    <members>Job_Posting_Site__c.Status__c</members>
+    <members>Job_Posting_Site__c.Technical_Site__c</members>
+    <members>Lead.CurrentGenerators__c</members>
+    <members>Lead.NumberofLocations__c</members>
+    <members>Lead.Primary__c</members>
+    <members>Lead.ProductInterest__c</members>
+    <members>Lead.Region__c</members>
+    <members>Lead.SICCode__c</members>
+    <members>Metric.OrigMetricId__c</members>
+    <members>MyProduct__c.Product_Name__c</members>
+    <members>MyProduct__c.variant__c</members>
+    <members>MyProduct__c.Version__c</members>
+    <members>OpenPosition__c.Company_Name__c</members>
+    <members>OpenPosition__c.CTC__c</members>
+    <members>OpenPosition__c.Job_Description__c</members>
+    <members>OpenPosition__c.Minimum_Experience_Required__c</members>
+    <members>OpenPosition__c.Name_Of_Position__c</members>
+    <members>OpenPosition__c.Number_Of_Open_Positions__c</members>
+    <members>Opportunity.Amount_After_Discount__c</members>
+    <members>Opportunity.Close_Reason__c</members>
+    <members>Opportunity.Closing_Month__c</members>
+    <members>Opportunity.Commission__c</members>
+    <members>Opportunity.CurrentGenerators__c</members>
+    <members>Opportunity.Day_To_Close__c</members>
+    <members>Opportunity.DeliveryInstallationStatus__c</members>
+    <members>Opportunity.Discount_Percentage__c</members>
+    <members>Opportunity.MainCompetitors__c</members>
+    <members>Opportunity.OrderNumber__c</members>
+    <members>Opportunity.Region_Zone__c</members>
+    <members>Opportunity.TrackingNumber__c</members>
+    <members>Order__c.Customer_ID__c</members>
+    <members>Order__c.Order_Date__c</members>
+    <members>Position__c.Approval_Status__c</members>
+    <members>Position__c.Department__c</members>
+    <members>Position__c.Education__c</members>
+    <members>Position__c.Hiring_Manager__c</members>
+    <members>Position__c.Job_Description__c</members>
+    <members>Position__c.Legacy_Position_Number__c</members>
+    <members>Position__c.Location__c</members>
+    <members>Position__c.Pay_Grade__c</members>
+    <members>Position__c.Related_Position__c</members>
+    <members>Position__c.Salary_Range__c</members>
+    <members>Position__c.Skills_Required__c</members>
+    <members>Position__c.Status__c</members>
+    <members>Product__c.Category__c</members>
+    <members>Product__c.Price__c</members>
+    <members>Product__c.Product_Name__c</members>
+    <members>Product__c.Related_Product__c</members>
+    <members>Product__c.Sub_Category__c</members>
+    <members>Product_Seller__c.Product__c</members>
+    <members>Product_Seller__c.Seller__c</members>
+    <members>Product_Version__c.Variant__c</members>
+    <members>Property__c.Address__c</members>
+    <members>Property__c.Assessed_Value__c</members>
+    <members>Property__c.Baths__c</members>
+    <members>Property__c.Beds__c</members>
+    <members>Property__c.Broker__c</members>
+    <members>Property__c.City__c</members>
+    <members>Property__c.Date_Agreement__c</members>
+    <members>Property__c.Date_Closed__c</members>
+    <members>Property__c.Date_Contracted__c</members>
+    <members>Property__c.Date_Listed__c</members>
+    <members>Property__c.Date_Pre_Market__c</members>
+    <members>Property__c.Days_On_Market__c</members>
+    <members>Property__c.Description__c</members>
+    <members>Property__c.Location__c</members>
+    <members>Property__c.Picture__c</members>
+    <members>Property__c.Picture_IMG__c</members>
+    <members>Property__c.Price__c</members>
+    <members>Property__c.Record_Link__c</members>
+    <members>Property__c.State__c</members>
+    <members>Property__c.Status__c</members>
+    <members>Property__c.Tags__c</members>
+    <members>Property__c.Thumbnail__c</members>
+    <members>Property__c.Thumbnail_IMG__c</members>
+    <members>Property__c.Title__c</members>
+    <members>Property__c.Zip__c</members>
+    <members>Review__c.Core_Competencies__c</members>
+    <members>Review__c.Core_Competencies_Comments__c</members>
+    <members>Review__c.Experience__c</members>
+    <members>Review__c.Experience_Comments__c</members>
+    <members>Review__c.Interviewer__c</members>
+    <members>Review__c.Job_Application__c</members>
+    <members>Review__c.Leadership_Skills__c</members>
+    <members>Review__c.Leadership_Skills_Comments__c</members>
+    <members>Review__c.Reason_Recommended__c</members>
+    <members>Review__c.Recommend_for_Hire__c</members>
+    <members>Seller__c.Phone_number__c</members>
+    <members>Seller__c.Seller_Address__c</members>
+    <members>Seller__c.SellerEmail__c</members>
+    <members>User.Unique_Users__c</members>
+    <name>CustomField</name>
+  </types>
+  <types>
+    <members>CustomLabels</members>
+    <name>CustomLabels</name>
+  </types>
+  <types>
+    <members>Account</members>
+    <members>AccountCleanInfo</members>
+    <members>AccountContactRole</members>
+    <members>Activity</members>
+    <members>Asset</members>
+    <members>AssetRelationship</members>
+    <members>AssistantProgress</members>
+    <members>Bot_Command__c</members>
+    <members>Broker__c</members>
+    <members>Campaign</members>
+    <members>CampaignMember</members>
+    <members>Candidate1__c</members>
+    <members>Candidate__c</members>
+    <members>Case</members>
+    <members>CaseContactRole</members>
+    <members>ChatterActivity</members>
+    <members>CollaborationGroup</members>
+    <members>CollaborationGroupMember</members>
+    <members>Company__c</members>
+    <members>ConsumptionRate</members>
+    <members>ConsumptionSchedule</members>
+    <members>Contact</members>
+    <members>ContactCleanInfo</members>
+    <members>ContactRequest</members>
+    <members>ContentVersion</members>
+    <members>Contract</members>
+    <members>ContractContactRole</members>
+    <members>Customer__c</members>
+    <members>DandBCompany</members>
+    <members>Dreamhouse_Settings__c</members>
+    <members>DuplicateRecordItem</members>
+    <members>DuplicateRecordSet</members>
+    <members>EmailMessage</members>
+    <members>Energy_Audit__c</members>
+    <members>Event</members>
+    <members>ExchangeUserMapping</members>
+    <members>Favorite__c</members>
+    <members>FeedItem</members>
+    <members>ForecastingCategoryMapping</members>
+    <members>Idea</members>
+    <members>Image</members>
+    <members>Interview__c</members>
+    <members>Interviewer1__c</members>
+    <members>Interviewer__c</members>
+    <members>Job_Application__c</members>
+    <members>Job_Posting__c</members>
+    <members>Job_Posting_Site__c</members>
+    <members>Lead</members>
+    <members>LeadCleanInfo</members>
+    <members>Macro</members>
+    <members>MacroAction</members>
+    <members>MacroInstruction</members>
+    <members>MyProduct__c</members>
+    <members>OpenPosition__c</members>
+    <members>Opportunity</members>
+    <members>OpportunityCompetitor</members>
+    <members>OpportunityContactRole</members>
+    <members>OpportunityLineItem</members>
+    <members>Order</members>
+    <members>Order__c</members>
+    <members>OrderItem</members>
+    <members>OrgDeleteRequest</members>
+    <members>PartnerRole</members>
+    <members>Position__c</members>
+    <members>Pricebook2</members>
+    <members>PricebookEntry</members>
+    <members>Product2</members>
+    <members>Product__c</members>
+    <members>ProductConsumptionSchedule</members>
+    <members>Product_Seller__c</members>
+    <members>Product_Version__c</members>
+    <members>Property__c</members>
+    <members>QuickText</members>
+    <members>Recommendation</members>
+    <members>RecordAction</members>
+    <members>RequestsForAccessSIQ</members>
+    <members>Review__c</members>
+    <members>Scorecard</members>
+    <members>ScorecardAssociation</members>
+    <members>ScorecardMetric</members>
+    <members>Seller__c</members>
+    <members>Site</members>
+    <members>SocialPersona</members>
+    <members>Solution</members>
+    <members>StreamActivityAccess</members>
+    <members>StreamingChannel</members>
+    <members>Task</members>
+    <members>Topic</members>
+    <members>TopicAssignment</members>
+    <members>User</members>
+    <members>UserProvisioningRequest</members>
+    <name>CustomObject</name>
+  </types>
+  <types>
+    <members>Account-en_US</members>
+    <members>Bot_Command__c-en_US</members>
+    <members>Broker__c-en_US</members>
+    <members>Candidate1__c-en_US</members>
+    <members>Candidate__c-en_US</members>
+    <members>Company__c-en_US</members>
+    <members>Customer__c-en_US</members>
+    <members>Dreamhouse_Settings__c-en_US</members>
+    <members>Energy_Audit__c-en_US</members>
+    <members>Favorite__c-en_US</members>
+    <members>Interview__c-en_US</members>
+    <members>Interviewer1__c-en_US</members>
+    <members>Interviewer__c-en_US</members>
+    <members>Job_Application__c-en_US</members>
+    <members>Job_Posting__c-en_US</members>
+    <members>Job_Posting_Site__c-en_US</members>
+    <members>MyProduct__c-en_US</members>
+    <members>OpenPosition__c-en_US</members>
+    <members>Order__c-en_US</members>
+    <members>Position__c-en_US</members>
+    <members>Product__c-en_US</members>
+    <members>Product_Seller__c-en_US</members>
+    <members>Product_Version__c-en_US</members>
+    <members>Property__c-en_US</members>
+    <members>Review__c-en_US</members>
+    <members>Seller__c-en_US</members>
+    <name>CustomObjectTranslation</name>
+  </types>
+  <types>
+    <members>Bot_Command__c</members>
+    <members>Broker__c</members>
+    <members>Candidate__c</members>
+    <members>Command_Center</members>
+    <members>Einstein_Vision</members>
+    <members>Energy_Audit__c</members>
+    <members>Heat_Map</members>
+    <members>Heat_Map_Mock</members>
+    <members>House_Explorer</members>
+    <members>Interviewer__c</members>
+    <members>Job_Application__c</members>
+    <members>Job_Posting_Site__c</members>
+    <members>My_Data</members>
+    <members>Order__c</members>
+    <members>Position__c</members>
+    <members>Product__c</members>
+    <members>Product_Seller__c</members>
+    <members>Product_Version__c</members>
+    <members>Property__c</members>
+    <members>Property_Explorer1</members>
+    <members>Sample_Data_Import</members>
+    <members>Seller__c</members>
+    <members>Top_Accounts_and_Opportunities</members>
+    <name>CustomTab</name>
+  </types>
+  <types>
+    <members>DreamHouse_Dashboards</members>
+    <members>DreamHouse_Dashboards/PwhxKrnFNjvWCIHRklHhRcEIEyIIBm</members>
+    <name>Dashboard</name>
+  </types>
+  <types>
+    <members>Account.Standard_Account_Duplicate_Rule</members>
+    <members>Contact.Standard_Contact_Duplicate_Rule</members>
+    <members>Lead.Standard_Lead_Duplicate_Rule</members>
+    <name>DuplicateRule</name>
+  </types>
+  <types>
+    <members>unfiled$public</members>
+    <members>unfiled$public/MarketingProductInquiryResponse</members>
+    <members>unfiled$public/New_Order_Email_Alert</members>
+    <members>unfiled$public/SalesNewCustomerEmail</members>
+    <members>unfiled$public/SupportCaseAssignmentNotification</members>
+    <members>unfiled$public/SupportCaseCreatedPhoneInquiries</members>
+    <members>unfiled$public/SupportCaseCreatedWebInquiries</members>
+    <members>unfiled$public/SupportCaseResponse</members>
+    <members>unfiled$public/SupportEscalatedCaseNotification</members>
+    <members>unfiled$public/SupportEscalatedCaseReassignment</members>
+    <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+    <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
+    <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+    <members>unfiled$public/SupportSelfServiceResetPassword</members>
+    <members>unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE</members>
+    <name>EmailTemplate</name>
+  </types>
+  <types>
+    <members>Case.Standard</members>
+    <name>EscalationRule</name>
+  </types>
+  <types>
+    <members>Case</members>
+    <name>EscalationRules</name>
+  </types>
+  <types>
+    <members>Command_Center</members>
+    <members>Demo_Home_Page</members>
+    <members>dreamhouseApplicationUtilityBar</members>
+    <members>Einstein_Vision</members>
+    <members>Energy_Consultations_UtilityBar</members>
+    <members>House_Explorer1</members>
+    <members>LightningSalesConsole_UtilityBar</members>
+    <members>LightningService_UtilityBar</members>
+    <members>MyData</members>
+    <members>New_Account_Page</members>
+    <members>New_Home_Page</members>
+    <members>New_Opportunity_Page</members>
+    <members>Process_Automation_Home</members>
+    <members>Property_Explorer</members>
+    <members>Property_Record_Page</members>
+    <members>Sales_Home</members>
+    <members>Seller_Record_Page</members>
+    <members>Top_Accounts_and_Opportunities</members>
+    <name>FlexiPage</name>
+  </types>
+  <types>
+    <members>Advertise_New_Property-2</members>
+    <members>Closed_Won_Opportunities-1</members>
+    <members>Closed_Won_Opportunities-2</members>
+    <members>Demo-1</members>
+    <members>Generalize_Mail_Alert-1</members>
+    <members>New_Lead-1</members>
+    <members>Opportunity_Status_Change-1</members>
+    <members>Post_Price_Changes_to_Slack-1</members>
+    <members>Price_Change_Push_Notification-1</members>
+    <members>Quick_Account-1</members>
+    <members>Update_Account_Billing_Address-1</members>
+    <members>Update_Contact_Mailing_Address-1</members>
+    <name>Flow</name>
+  </types>
+  <types>
+    <members>Advertise_New_Property</members>
+    <members>Closed_Won_Opportunities</members>
+    <members>Demo</members>
+    <members>Generalize_Mail_Alert</members>
+    <members>New_Lead</members>
+    <members>Opportunity_Status_Change</members>
+    <members>Post_Price_Changes_to_Slack</members>
+    <members>Price_Change_Push_Notification</members>
+    <members>Quick_Account</members>
+    <members>Update_Account_Billing_Address</members>
+    <members>Update_Contact_Mailing_Address</members>
+    <name>FlowDefinition</name>
+  </types>
+  <types>
+    <members>Department</members>
+    <members>Region</members>
+    <name>GlobalValueSet</name>
+  </types>
+  <types>
+    <members>DE Default</members>
+    <name>HomePageLayout</name>
+  </types>
+  <types>
+    <members>Account-Account %28Marketing%29 Layout</members>
+    <members>Account-Account %28Sales%29 Layout</members>
+    <members>Account-Account %28Support%29 Layout</members>
+    <members>Account-Account Layout</members>
+    <members>Account-Customer Account Layout</members>
+    <members>Account-Partner Account Layout</members>
+    <members>Asset-Asset Layout</members>
+    <members>AssetRelationship-Asset Relationship Layout</members>
+    <members>Bot_Command__c-Bot Action Layout</members>
+    <members>Broker__c-Broker Layout</members>
+    <members>Broker__c-Broker Sales Layout</members>
+    <members>Campaign-Campaign Layout</members>
+    <members>CampaignMember-Campaign Member Page Layout</members>
+    <members>Candidate1__c-Candidate Layout</members>
+    <members>Candidate__c-Candidate Layout</members>
+    <members>Case-Case %28Marketing%29 Layout</members>
+    <members>Case-Case %28Sales%29 Layout</members>
+    <members>Case-Case %28Support%29 Layout</members>
+    <members>Case-Case Layout</members>
+    <members>CaseClose-Close Case Layout</members>
+    <members>CommunityMemberLayout-Community Member Layout</members>
+    <members>Company__c-Company Layout</members>
+    <members>ConsumptionRate-Consumption Rate Layout</members>
+    <members>ConsumptionSchedule-Consumption Schedule Layout</members>
+    <members>Contact-Contact %28Marketing%29 Layout</members>
+    <members>Contact-Contact %28Sales%29 Layout</members>
+    <members>Contact-Contact %28Support%29 Layout</members>
+    <members>Contact-Contact Layout</members>
+    <members>ContentVersion-Content Version Layout</members>
+    <members>Contract-Contract Layout</members>
+    <members>Customer__c-Customer Layout</members>
+    <members>DandBCompany-D%26B Company Layout</members>
+    <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
+    <members>EmailMessage-Email Message Layout</members>
+    <members>Energy_Audit__c-Energy Audit Layout</members>
+    <members>Energy_Audit__c-Energy Audit Sales Layout</members>
+    <members>Event-Event Layout</members>
+    <members>Favorite__c-Favorite Layout</members>
+    <members>FeedItem-Feed Item Layout</members>
+    <members>Global-Global Layout</members>
+    <members>Idea-Idea Layout</members>
+    <members>Interview__c-Interview Layout</members>
+    <members>Interviewer1__c-Interviewer for candidate Layout</members>
+    <members>Interviewer1__c-Interviewer Layout</members>
+    <members>Interviewer__c-Interviewer Layout</members>
+    <members>Job_Application__c-Job Application Layout</members>
+    <members>Job_Posting__c-Job Posting Layout</members>
+    <members>Job_Posting_Site__c-Job Posting Site Layout</members>
+    <members>Lead-Lead %28Marketing%29 Layout</members>
+    <members>Lead-Lead %28Sales%29 Layout</members>
+    <members>Lead-Lead %28Support%29 Layout</members>
+    <members>Lead-Lead Layout</members>
+    <members>Macro-Macro Layout</members>
+    <members>MyProduct__c-MyProduct Layout</members>
+    <members>OpenPosition__c-OpenPosition Layout</members>
+    <members>OpportunityLineItem-Opportunity Product Layout</members>
+    <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
+    <members>Opportunity-Opportunity %28Sales%29 Layout</members>
+    <members>Opportunity-Opportunity %28Support%29 Layout</members>
+    <members>Opportunity-Opportunity Layout</members>
+    <members>Order__c-Order Layout</members>
+    <members>OrderItem-Order Product Layout</members>
+    <members>Order-Order Layout</members>
+    <members>Position__c-Position Layout</members>
+    <members>Pricebook2-Price Book Layout</members>
+    <members>PricebookEntry-Price Book Entry Layout</members>
+    <members>Product2-Product Layout</members>
+    <members>ProductConsumptionSchedule-Product Consumption Schedule Layout</members>
+    <members>Product__c-Product Layout</members>
+    <members>Product_Seller__c-Product Seller Layout</members>
+    <members>Product_Version__c-Product Version Layout</members>
+    <members>Property__c-Property Layout</members>
+    <members>QuickText-Quick Text Layout</members>
+    <members>Review__c-Review Layout</members>
+    <members>ScorecardAssociation-Scorecard Association Layout</members>
+    <members>ScorecardMetric-Scorecard Metric Layout</members>
+    <members>Scorecard-Scorecard Layout</members>
+    <members>Seller__c-Seller Layout</members>
+    <members>SocialPersona-Social Persona Layout</members>
+    <members>SocialPost-Social Post Layout</members>
+    <members>Solution-Solution Layout</members>
+    <members>Task-Task Layout</members>
+    <members>UserAlt-User Profile Layout</members>
+    <members>UserProvAccount-User Provisioning Account Layout</members>
+    <members>UserProvisioningLog-User Provisioning Log Layout</members>
+    <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+    <members>User-User Layout</members>
+    <name>Layout</name>
+  </types>
+  <types>
+    <members>Account.AllAccounts</members>
+    <members>Account.Channel_Customers</members>
+    <members>Account.MyAccounts</members>
+    <members>Account.NewLastWeek</members>
+    <members>Account.NewThisWeek</members>
+    <members>Account.PlatinumandGoldSLACustomers</members>
+    <members>Activity.AllActivities</members>
+    <members>Activity.MyActivities</members>
+    <members>Activity.TodaysTasks</members>
+    <members>Activity.UpcomingEvents</members>
+    <members>Asset.AllAssets</members>
+    <members>Bot_Command__c.All</members>
+    <members>Broker__c.All</members>
+    <members>Campaign.AllActiveCampaigns</members>
+    <members>Campaign.MyActiveCampaigns</members>
+    <members>Candidate__c.All</members>
+    <members>Case.AllClosedCases</members>
+    <members>Case.AllOpenCases</members>
+    <members>Case.MyCases</members>
+    <members>Case.MyOpenCases</members>
+    <members>CollaborationGroup.All_ChatterGroups</members>
+    <members>ConsumptionSchedule.All_ConsumptionSchedules</members>
+    <members>ConsumptionSchedule.My_ConsumptionSchedules</members>
+    <members>Contact.AllContacts</members>
+    <members>Contact.BirthdaysThisMonth</members>
+    <members>Contact.MyContacts</members>
+    <members>Contact.NewLastWeek</members>
+    <members>Contact.NewThisWeek</members>
+    <members>ContactRequest.My_ContactRequests</members>
+    <members>Contract.AllActivatedContracts</members>
+    <members>Contract.AllContracts</members>
+    <members>Contract.AllDraftContracts</members>
+    <members>Contract.AllInApprovalContracts</members>
+    <members>Contract.MyActivatedContracts</members>
+    <members>Contract.MyDraftContracts</members>
+    <members>Contract.MyInApprovalContracts</members>
+    <members>Energy_Audit__c.All</members>
+    <members>Favorite__c.All</members>
+    <members>Idea.Ideas_Last_7_Days</members>
+    <members>Interviewer__c.All</members>
+    <members>Job_Application__c.All</members>
+    <members>Job_Posting_Site__c.All</members>
+    <members>Lead.AllOpenLeads</members>
+    <members>Lead.MyUnreadLeads</members>
+    <members>Lead.TodaysLeads</members>
+    <members>Lead.ViewCustom1</members>
+    <members>Lead.ViewCustom2</members>
+    <members>MyProduct__c.All</members>
+    <members>Opportunity.AllOpportunities</members>
+    <members>Opportunity.ClosingNextMonth</members>
+    <members>Opportunity.ClosingThisMonth</members>
+    <members>Opportunity.Default_Opportunity_Pipeline</members>
+    <members>Opportunity.High_Probability_Oppertunity</members>
+    <members>Opportunity.High_Probability_Opportunities</members>
+    <members>Opportunity.MyOpportunities</members>
+    <members>Opportunity.NewLastWeek</members>
+    <members>Opportunity.NewThisWeek</members>
+    <members>Opportunity.Private</members>
+    <members>Opportunity.Won</members>
+    <members>Order.AllActivatedOrders</members>
+    <members>Order.AllDraftOrders</members>
+    <members>Order.AllOrders</members>
+    <members>Order__c.All</members>
+    <members>Position__c.All</members>
+    <members>Product2.AllProducts</members>
+    <members>Product__c.All</members>
+    <members>Product_Seller__c.All</members>
+    <members>Product_Version__c.All</members>
+    <members>Property__c.All</members>
+    <members>Recommendation.All_Recommendations</members>
+    <members>Scorecard.AllScorecards</members>
+    <members>Scorecard.MyScorecards</members>
+    <members>Seller__c.All</members>
+    <members>SocialPersona.AllSocialPersonas</members>
+    <members>Solution.AllReviewedSolutions</members>
+    <members>Solution.AllUnreviewedSolutions</members>
+    <members>Task.CompletedTasks</members>
+    <members>Task.DelegatedTasks</members>
+    <members>Task.OpenTasks</members>
+    <members>Task.OverdueTasks</members>
+    <members>Task.RecurringTasks</members>
+    <members>Task.TodaysTasks</members>
+    <members>Task.UnscheduledTasks</members>
+    <members>User.ActiveUsers</members>
+    <members>User.AdminUsers</members>
+    <members>User.AllUsers</members>
+    <members>WorkFeedbackRequest.AboutTopics</members>
+    <members>WorkFeedbackRequest.All</members>
+    <members>WorkFeedbackTemplate.All</members>
+    <name>ListView</name>
+  </types>
+  <types>
+    <members>Account.Standard_Account_Match_Rule_v1_0</members>
+    <members>Contact.Standard_Contact_Match_Rule_v1_1</members>
+    <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
+    <name>MatchingRule</name>
+  </types>
+  <types>
+    <members>Account</members>
+    <members>Contact</members>
+    <members>Lead</members>
+    <name>MatchingRules</name>
+  </types>
+  <types>
+    <members>Admin</members>
+    <members>Analytics Cloud Integration User</members>
+    <members>Analytics Cloud Security User</members>
+    <members>Authenticated Website</members>
+    <members>Chatter External User</members>
+    <members>Chatter Free User</members>
+    <members>Chatter Moderator User</members>
+    <members>ContractManager</members>
+    <members>Cross Org Data Proxy User</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+    <members>Customer Community Login User</members>
+    <members>Customer Community Plus Login User</members>
+    <members>Customer Community Plus User</members>
+    <members>Customer Community User</members>
+    <members>Customer Portal Manager Custom</members>
+    <members>Customer Portal Manager Standard</members>
+    <members>External Identity User</members>
+    <members>Force%2Ecom - App Subscription User</members>
+    <members>Force%2Ecom - Free User</members>
+    <members>Gold Partner User</members>
+    <members>High Volume Customer Portal User</members>
+    <members>HighVolumePortal</members>
+    <members>Identity User</members>
+    <members>MarketingProfile</members>
+    <members>Partner App Subscription User</members>
+    <members>Partner Community Login User</members>
+    <members>Partner Community User</members>
+    <members>PlatformPortal</members>
+    <members>ReadOnly</members>
+    <members>Sales User</members>
+    <members>Silver Partner User</members>
+    <members>SolutionManager</members>
+    <members>Standard</members>
+    <members>StandardAul</members>
+    <members>Support User</members>
+    <members>Work%2Ecom Only User</members>
+    <name>Profile</name>
+  </types>
+  <types>
+    <members>Account.New_Energy_Audit</members>
+    <members>Account.New_Oppty</members>
+    <members>Case.LogACall</members>
+    <members>Case.NewChildCase</members>
+    <members>CollaborationGroup.NewGroupMember</members>
+    <members>CollaborationGroup.NewGroupRecord</members>
+    <members>FeedItem.NewTaskFromFeedItem</members>
+    <members>LogACall</members>
+    <members>NewAccount</members>
+    <members>New_Campaign</members>
+    <members>NewCase</members>
+    <members>NewContact</members>
+    <members>NewEvent</members>
+    <members>NewGroup</members>
+    <members>NewLead</members>
+    <members>NewNote</members>
+    <members>NewOpportunity</members>
+    <members>NewTask</members>
+    <members>Product__c.New_Seller</members>
+    <members>Property__c.Smart_Home</members>
+    <members>Seller__c.New_Product</members>
+    <members>SendEmail</members>
+    <members>Task.Close_Task</members>
+    <members>Task.Defer</members>
+    <members>Task.Defer_0</members>
+    <members>Task.EditDescription</members>
+    <members>Task.EditDescription_0</members>
+    <members>Task.UpdatePriority</members>
+    <members>Task.UpdatePriority_0</members>
+    <members>Task.UpdateStatus</members>
+    <members>Task.UpdateStatus_0</members>
+    <name>QuickAction</name>
+  </types>
+  <types>
+    <members>Account.Customer_Account</members>
+    <members>Account.Partner_Account</members>
+    <members>Metric.Completion</members>
+    <members>Metric.Progress</members>
+    <name>RecordType</name>
+  </types>
+  <types>
+    <members>ApexDevNet</members>
+    <members>Einstein_Vision</members>
+    <members>LIFX</members>
+    <members>PushServer</members>
+    <members>Slack</members>
+    <name>RemoteSiteSetting</name>
+  </types>
+  <types>
+    <members>DreamHouse_Reports</members>
+    <members>DreamHouse_Reports/Days_on_Market</members>
+    <members>DreamHouse_Reports/Portfolio_Health</members>
+    <members>DreamHouse_Reports/Properties_by_Broker</members>
+    <members>unfiled$public</members>
+    <name>Report</name>
+  </types>
+  <types>
+    <members>CEO</members>
+    <members>CFO</members>
+    <members>ChannelSalesTeam</members>
+    <members>COO</members>
+    <members>CustomerSupportInternational</members>
+    <members>CustomerSupportNorthAmerica</members>
+    <members>DirectorChannelSales</members>
+    <members>DirectorDirectSales</members>
+    <members>EasternSalesTeam</members>
+    <members>InstallationRepairServices</members>
+    <members>MarketingTeam</members>
+    <members>SVPCustomerServiceSupport</members>
+    <members>SVPHumanResources</members>
+    <members>SVPSalesMarketing</members>
+    <members>VPInternationalSales</members>
+    <members>VPMarketing</members>
+    <members>VPNorthAmericanSales</members>
+    <members>WesternSalesTeam</members>
+    <name>Role</name>
+  </types>
+  <types>
+    <members>Account</members>
+    <members>Activities</members>
+    <members>Address</members>
+    <members>BusinessHours</members>
+    <members>Case</members>
+    <members>Company</members>
+    <members>Contract</members>
+    <members>Entitlement</members>
+    <members>FieldService</members>
+    <members>FileUploadAndDownloadSecurity</members>
+    <members>Forecasting</members>
+    <members>Ideas</members>
+    <members>Knowledge</members>
+    <members>LiveAgent</members>
+    <members>Macro</members>
+    <members>Mobile</members>
+    <members>Name</members>
+    <members>Opportunity</members>
+    <members>Order</members>
+    <members>OrgPreference</members>
+    <members>PathAssistant</members>
+    <members>Product</members>
+    <members>Quote</members>
+    <members>Search</members>
+    <members>Security</members>
+    <name>Settings</name>
+  </types>
+  <types>
+    <members>Account</members>
+    <members>Asset</members>
+    <members>Bot_Command__c</members>
+    <members>Broker__c</members>
+    <members>Campaign</members>
+    <members>Candidate1__c</members>
+    <members>Candidate__c</members>
+    <members>Case</members>
+    <members>Company__c</members>
+    <members>Contact</members>
+    <members>Customer__c</members>
+    <members>Dreamhouse_Settings__c</members>
+    <members>Energy_Audit__c</members>
+    <members>FlowInterview</members>
+    <members>Interviewer__c</members>
+    <members>Job_Application__c</members>
+    <members>Job_Posting_Site__c</members>
+    <members>Lead</members>
+    <members>ListEmail</members>
+    <members>MyProduct__c</members>
+    <members>Opportunity</members>
+    <members>Order</members>
+    <members>Order__c</members>
+    <members>Position__c</members>
+    <members>Product__c</members>
+    <members>Product_Version__c</members>
+    <members>Property__c</members>
+    <members>Seller__c</members>
+    <members>User</members>
+    <name>SharingRules</name>
+  </types>
+  <types>
+    <members>countup7</members>
+    <members>heatmap</members>
+    <members>heatmapmock</members>
+    <members>leaflet</members>
+    <members>leaflet1</members>
+    <members>nouislider</members>
+    <name>StaticResource</name>
+  </types>
+  <types>
+    <members>Account</members>
+    <members>Asset</members>
+    <members>Bot_Command__c</members>
+    <members>Broker__c</members>
+    <members>Campaign</members>
+    <members>Candidate1__c</members>
+    <members>Candidate__c</members>
+    <members>Case</members>
+    <members>Company__c</members>
+    <members>Contact</members>
+    <members>ContentDocument</members>
+    <members>Contract</members>
+    <members>Customer__c</members>
+    <members>Energy_Audit__c</members>
+    <members>Event</members>
+    <members>Favorite__c</members>
+    <members>Interview__c</members>
+    <members>Interviewer1__c</members>
+    <members>Interviewer__c</members>
+    <members>Job_Application__c</members>
+    <members>Job_Posting__c</members>
+    <members>Job_Posting_Site__c</members>
+    <members>Lead</members>
+    <members>MyProduct__c</members>
+    <members>OpenPosition__c</members>
+    <members>Opportunity</members>
+    <members>Order</members>
+    <members>Order__c</members>
+    <members>Position__c</members>
+    <members>Product__c</members>
+    <members>Product_Seller__c</members>
+    <members>Product_Version__c</members>
+    <members>Property__c</members>
+    <members>Review__c</members>
+    <members>Seller__c</members>
+    <members>Solution</members>
+    <members>Task</members>
+    <name>TopicsForObjects</name>
+  </types>
+  <types>
+    <members>Contract.Contact_must_be_in_Account_ZIP_Code</members>
+    <members>Opportunity.Close_reason_required_when_lost</members>
+    <name>ValidationRule</name>
+  </types>
+  <types>
+    <members>Account.Billing</members>
+    <members>Account.Map_Button</members>
+    <members>Broker__c.Smart_City_Plan</members>
+    <members>Campaign.ViewCampaignInfluenceReport</members>
+    <members>Case.UpsellCrosssellOpportunity</members>
+    <members>Contact.Google_Info</members>
+    <members>Energy_Audit__c.Audit_Guidelines</members>
+    <members>Energy_Audit__c.US_Average_Energy_Costs</members>
+    <members>Opportunity.DeliveryStatus</members>
+    <name>WebLink</name>
+  </types>
+  <types>
+    <members>Campaign</members>
+    <members>Contact</members>
+    <members>Order__c</members>
+    <name>Workflow</name>
+  </types>
+  <types>
+    <members>Campaign.Sending_Alert_Mail</members>
+    <members>Campaign.Sending_Mail_Alerts_on_Weekend</members>
+    <members>Contact.Sending_Alert_Mail_on_age</members>
+    <members>Order__c.New_Order_Mail_Alert</members>
+    <name>WorkflowAlert</name>
+  </types>
+  <types>
+    <members>Campaign.Mail Alert for Weekend</members>
+    <members>Contact.Email Alert For Age %3E25</members>
+    <members>Order__c.New Order Alert</members>
+    <name>WorkflowRule</name>
+  </types>
+  <version>43.0</version>
 </Package>

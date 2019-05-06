@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Customer Account Layout</layout>
+        <sections>
+            <label><!-- Sales Region --></label>
+            <section>Sales Region</section>
+        </sections>
+        <sections>
+            <label><!-- Support Plan Information --></label>
+            <section>Support Plan Information</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- New Energy Audit --></label>
+        <name>New_Energy_Audit</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Oppty --></label>
+        <name>New_Oppty</name>
+    </quickActions>
+    <recordTypes>
+        <description><!-- For customers and prospects --></description>
+        <label><!-- Customer Account --></label>
+        <name>Customer_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- For consulting partners --></description>
+        <label><!-- Partner Account --></label>
+        <name>Partner_Account</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- Billing --></label>
+        <name>Billing</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Map_Button --></label>
+        <name>Map_Button</name>
+    </webLinks>
+</CustomObjectTranslation>
