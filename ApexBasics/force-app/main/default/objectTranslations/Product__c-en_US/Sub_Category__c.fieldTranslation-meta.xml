@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Sub Category --></label>
+    <name>Sub_Category__c</name>
+    <picklistValues>
+        <masterLabel>Baggage &amp; Luggage</masterLabel>
+        <translation><!-- Baggage &amp; Luggage --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Bed</masterLabel>
+        <translation><!-- Bed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chair</masterLabel>
+        <translation><!-- Chair --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Computers</masterLabel>
+        <translation><!-- Computers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dining Table</masterLabel>
+        <translation><!-- Dining Table --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fan</masterLabel>
+        <translation><!-- Fan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Kitchen Appliances</masterLabel>
+        <translation><!-- Kitchen Appliances --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Men&#39;s Shoe</masterLabel>
+        <translation><!-- Men&apos;s Shoe --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mobile</masterLabel>
+        <translation><!-- Mobile --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Refrigerator</masterLabel>
+        <translation><!-- Refrigerator --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sofa</masterLabel>
+        <translation><!-- Sofa --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sports &amp; Fitness</masterLabel>
+        <translation><!-- Sports &amp; Fitness --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>TV</masterLabel>
+        <translation><!-- TV --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Woman&#39;s Shoe</masterLabel>
+        <translation><!-- Woman&apos;s Shoe --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
