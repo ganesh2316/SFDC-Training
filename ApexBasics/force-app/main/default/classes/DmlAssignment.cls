@@ -85,7 +85,7 @@ public  class DmlAssignment {
     }
     
     
-    public Opportunity createOpportunity(String fname, String lname, Integer amt){
+    public Opportunity createOpportunity(String fname, String lname, Decimal amt){
         Date dt=Date.newInstance(2019, 04, 26);
         List<Opportunity> opp=[SELECT OrderId__c from Opportunity order by CreatedDate DESC Limit 1 ];
         List<Opportunity> oppInsertList=new List<Opportunity>();
@@ -110,9 +110,9 @@ public  class DmlAssignment {
         public String Lname{get;set;}
         public String phone {get; set;}
         public String email{get;set;}
-        public Integer amt{get; set;}
+        public Decimal amt{get; set;}
        
-        public Parameters(String fname, String lname, String ph, String e_mail,Integer Amt){
+        public Parameters(String fname, String lname, String ph, String e_mail,Decimal Amt){
             this.Fname=fname;
             this.Lname=lname;
             this.phone=ph;
