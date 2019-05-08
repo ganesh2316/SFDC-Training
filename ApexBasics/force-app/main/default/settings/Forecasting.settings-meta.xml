@@ -244,6 +244,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -262,6 +266,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -313,11 +321,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -493,6 +503,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -511,6 +525,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -562,11 +580,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -746,6 +766,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -764,6 +788,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -816,11 +844,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -996,6 +1026,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1014,6 +1048,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -1065,11 +1103,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -1249,6 +1289,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1267,6 +1311,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -1319,11 +1367,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -1499,6 +1549,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1517,6 +1571,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -1568,11 +1626,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -1748,6 +1808,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1766,6 +1830,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -1817,11 +1885,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -1997,6 +2067,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2015,6 +2089,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -2066,11 +2144,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -2250,6 +2330,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2268,6 +2352,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -2320,11 +2408,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -2500,6 +2590,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2518,6 +2612,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -2569,11 +2667,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -2749,6 +2849,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2767,6 +2871,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -2818,11 +2926,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
@@ -2998,6 +3108,10 @@
             <label>Commission</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIRV</field>
+            <label>Contact</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChh</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -3016,6 +3130,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEIZF</field>
+            <label>OrderId</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChk</field>
@@ -3067,11 +3185,13 @@
             <field>00N0K00000LDKvA</field>
             <field>00N0K00000LEGml</field>
             <field>00N0K00000LDL5A</field>
+            <field>00N0K00000LEIRV</field>
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
             <field>00N0K00000KnChj</field>
+            <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
