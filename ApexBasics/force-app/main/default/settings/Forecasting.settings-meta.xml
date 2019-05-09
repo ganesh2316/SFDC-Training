@@ -264,6 +264,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -276,12 +280,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -326,11 +338,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -523,6 +538,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -535,12 +554,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -585,11 +612,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -786,6 +816,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -798,12 +832,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -849,11 +891,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1046,6 +1091,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1058,12 +1107,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1108,11 +1165,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1309,6 +1369,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1321,12 +1385,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1372,11 +1444,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1569,6 +1644,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1581,12 +1660,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1631,11 +1718,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1828,6 +1918,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1840,12 +1934,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1890,11 +1992,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2087,6 +2192,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2099,12 +2208,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2149,11 +2266,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2350,6 +2470,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2362,12 +2486,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2413,11 +2545,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2610,6 +2745,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2622,12 +2761,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2672,11 +2819,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2869,6 +3019,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2881,12 +3035,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2931,11 +3093,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -3128,6 +3293,10 @@
             <label>Discount Percentage</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKsx</field>
+            <label>Frequency</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChj</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -3140,12 +3309,20 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt7</field>
+            <label>Parent Opportunity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM5k</field>
             <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000KnChl</field>
             <label>Tracking Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LEKt2</field>
+            <label>Years</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -3190,11 +3367,14 @@
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
             <field>00N0K00000KnChk</field>
+            <field>00N0K00000LEKt7</field>
             <field>00N0K00000LDM5k</field>
             <field>00N0K00000KnChl</field>
+            <field>00N0K00000LEKt2</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>

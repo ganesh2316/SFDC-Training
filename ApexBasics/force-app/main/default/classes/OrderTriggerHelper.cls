@@ -9,6 +9,9 @@ public class OrderTriggerHelper {
                     opp.Amount=ord.Amount__c;
                     updateOppList.add(opp);
                 }
+                else{
+                    ord.addError('Please Check Email ID');
+                }
             }
         }
         update updateOppList;
