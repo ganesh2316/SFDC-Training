@@ -142,7 +142,7 @@
                 <mappingOperation>Autofill</mappingOperation>
             </fieldMappingRows>
             <masterLabel>LeadOutputMapping</masterLabel>
-        </fieldMappings>
+      </fieldMappings>
         <fieldMappings>
             <SObjectType>DatacloudAddress</SObjectType>
             <developerName>Lead_Geo_Clean_Rule_for_AddressInputMapping</developerName>
