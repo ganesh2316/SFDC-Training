@@ -11,14 +11,4 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/New_Order_Email_Alert</template>
     </alerts>
-    <rules>
-        <fullName>New Order Alert</fullName>
-        <actions>
-            <name>New_Order_Mail_Alert</name>
-            <type>Alert</type>
-        </actions>
-        <active>false</active>
-        <formula>Order_Date__c  ==  TODAY()</formula>
-        <triggerType>onCreateOrTriggeringUpdate</triggerType>
-    </rules>
 </Workflow>

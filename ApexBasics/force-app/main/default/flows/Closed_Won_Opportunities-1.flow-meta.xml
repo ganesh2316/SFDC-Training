@@ -527,7 +527,6 @@
         <object>Task</object>
     </recordCreates>
     <startElementReference>myVariable_waitStartTimeAssignment</startElementReference>
-    <status>Active</status>
     <variables>
         <name>cancelWaits</name>
         <dataType>String</dataType>
