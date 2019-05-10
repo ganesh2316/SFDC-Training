@@ -52,6 +52,10 @@
                 <behavior>Readonly</behavior>
                 <field>age__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>Birthday_status__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
