@@ -1,5 +1,5 @@
 public class OpportunitySummary {
-    public static void FindOpportunity(Integer minAge, Integer maxAge){
+    public static Map<String, Map<String,Double>> FindOpportunity(Integer minAge, Integer maxAge){
         List <Contact> ct=[Select Account.Name,Account.Createdby.Name, FirstName, LastName from  Contact where  age__c>:minAge AND age__c<=:maxAge];
         //system.debug(ct);
         List<string>accountNames= new List<String>();
@@ -9,8 +9,9 @@ public class OpportunitySummary {
         //System.debug(accountNames);
         List<AggregateResult> opp= new List<AggregateResult>();
         opp.addAll([Select CloseDate,sum(Amount) TotalAmount from Opportunity where Opportunity.Account.Name=:accountNames group BY CloseDate]);
+     
         Map<String,Double> Result; 
-        Map<Integer, Map<String,Double>>FinalResult=new Map<Integer, Map<String,Double>>();
+        Map<String, Map<String,Double>>FinalResult=new Map<String, Map<String,Double>>();
         for (AggregateResult ar: opp){
             Date dt=(Date)ar.get('CloseDate');
             Integer Month= dt.month();
@@ -53,21 +54,16 @@ public class OpportunitySummary {
                     mon='Dec';
                 }
             }
-            Integer Year= dt.year();
+            String Year= String.valueOf(dt.year());
             Double amount=(Double)ar.get('TotalAmount');
             if (FinalResult.containsKey(Year)){
                 Result= FinalResult.get(Year);
-            if (Result.containsKey(mon)){
+            if (Result.containsKey(mon) && amount !=0){
                 
                 Double amt=Result.get(mon);
                 amt = amt+amount;
                 Result.put(mon,amt);
                 FinalResult.put(Year,Result);
-            }
-            else{
-               
-               Result.put(mon,amount); 
-               FinalResult.put(Year,Result);
             }
             }else{
                 Result=new Map<String,Double>();
@@ -76,6 +72,6 @@ public class OpportunitySummary {
             }
             
         }
-        System.debug(FinalResult);
+        return FinalResult;
     }
 }
