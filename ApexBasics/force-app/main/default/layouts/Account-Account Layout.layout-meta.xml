@@ -68,6 +68,10 @@
                 <behavior>Edit</behavior>
                 <field>Match_Billing_Address__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Number_Of_Contacts__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

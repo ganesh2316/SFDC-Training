@@ -1,9 +1,9 @@
 public class CountNumberOfSegments {
-    public Double CountSegments(string value){
+    public static Double CountSegments(string value){
         Double count=0;
         try{
             if (value==null){
-                
+                return null;
             }
             else{
                 Pattern numberFormat= Pattern.compile('[0-9]*');
