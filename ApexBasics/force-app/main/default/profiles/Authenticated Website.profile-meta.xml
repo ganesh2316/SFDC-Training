@@ -144,10 +144,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>ContactHandler</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ContactProcessor</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -411,13 +407,10 @@
         <apexClass>UpdateUser</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-<<<<<<< HEAD
     <classAccesses>
         <apexClass>VerifyDate</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-=======
->>>>>>> e34e0990700d88666616412949f4d5f045ec7dda
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
