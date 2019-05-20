@@ -13,4 +13,5 @@
     <tabs>Seller__c</tabs>
     <tabs>Product_Seller__c</tabs>
     <tabs>Order__c</tabs>
+    <tabs>Customer_Detail__c</tabs>
 </CustomApplication>
