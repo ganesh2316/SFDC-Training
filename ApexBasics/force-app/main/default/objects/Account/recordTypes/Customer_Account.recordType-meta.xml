@@ -385,4 +385,19 @@
             <default>false</default>
         </values>
     </picklistValues>
+    <picklistValues>
+        <picklist>status__c</picklist>
+        <values>
+            <fullName>InActive</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Not Used</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Obsolete</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>

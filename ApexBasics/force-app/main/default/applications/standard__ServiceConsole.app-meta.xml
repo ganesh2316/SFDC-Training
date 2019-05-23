@@ -184,7 +184,11 @@
     <tabs>Seller__c</tabs>
     <tabs>Product_Seller__c</tabs>
     <tabs>Order__c</tabs>
+    <tabs>Customer_Detail__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Customer_Detail__c</tab>
+        </mappings>
         <mappings>
             <tab>Order__c</tab>
         </mappings>

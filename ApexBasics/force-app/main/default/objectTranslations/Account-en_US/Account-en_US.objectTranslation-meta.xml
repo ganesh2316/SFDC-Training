@@ -29,6 +29,10 @@
         <label><!-- Partner Account --></label>
         <name>Partner_Account</name>
     </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Account Can not be deleted with related Opportunity --></errorMessage>
+        <name>BeforeDeleteValidation</name>
+    </validationRules>
     <webLinks>
         <label><!-- Billing --></label>
         <name>Billing</name>

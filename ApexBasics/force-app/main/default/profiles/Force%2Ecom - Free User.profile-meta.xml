@@ -144,10 +144,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>ContactHandler</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ContactProcessor</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -161,6 +157,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>CustomException</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>CustomerDetailClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -372,6 +372,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>TestAccountBeforeDeleteTrigger</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>TestAccountDeletion</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -411,13 +415,10 @@
         <apexClass>UpdateUser</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-<<<<<<< HEAD
     <classAccesses>
         <apexClass>VerifyDate</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-=======
->>>>>>> e34e0990700d88666616412949f4d5f045ec7dda
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -517,6 +518,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.NumberofLocations__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Opportunity_Count__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -628,6 +634,11 @@
         <editable>false</editable>
         <field>Account.Zone__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.status__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>

@@ -83,6 +83,9 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>Component_1</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentInstanceProperties>
                 <name>tabs</name>
                 <value>Facet-9e23138a-848f-4408-a32f-0aa6ee26b3f9</value>
@@ -95,6 +98,9 @@
     <flexiPageRegions>
         <componentInstances>
             <componentName>runtime_sales_social:socialPanel</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>Calculator</componentName>
         </componentInstances>
         <name>sidebar</name>
         <type>Region</type>

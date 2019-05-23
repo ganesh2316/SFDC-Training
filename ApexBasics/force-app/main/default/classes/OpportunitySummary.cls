@@ -65,6 +65,10 @@ public class OpportunitySummary {
                 Result.put(mon,amt);
                 FinalResult.put(Year,Result);
             }
+                else{
+                    Result.put(mon,amount);
+                    FinalResult.put(Year,Result);
+                }
             }else{
                 Result=new Map<String,Double>();
                 Result.put(mon,amount); 
