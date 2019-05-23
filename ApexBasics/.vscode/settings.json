@@ -6,4 +6,5 @@
     "**/.sfdx": true
   },
   "eslint.nodePath": "c:\\Users\\ganesh.wadgaonkar\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.15.1\\node_modules"
+
 }
