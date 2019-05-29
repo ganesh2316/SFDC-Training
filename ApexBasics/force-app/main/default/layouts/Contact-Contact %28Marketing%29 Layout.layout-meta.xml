@@ -48,6 +48,10 @@
                 <behavior>Readonly</behavior>
                 <field>Birthday_status__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Stage__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
