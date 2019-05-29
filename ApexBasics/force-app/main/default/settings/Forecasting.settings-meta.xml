@@ -260,8 +260,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -337,7 +345,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -534,8 +544,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -611,7 +629,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -812,8 +832,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -890,7 +918,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -1087,8 +1117,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -1164,7 +1202,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -1365,8 +1405,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -1443,7 +1491,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -1640,8 +1690,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -1717,7 +1775,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -1914,8 +1974,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -1991,7 +2059,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -2188,8 +2258,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -2265,7 +2343,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -2466,8 +2546,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -2544,7 +2632,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -2741,8 +2831,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -2818,7 +2916,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -3015,8 +3115,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -3092,7 +3200,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>
@@ -3289,8 +3399,16 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSd</field>
+            <label>Discount Percent</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N0K00000LDM8j</field>
             <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N0K00000LESSi</field>
+            <label>Discount Percent Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N0K00000LEKsx</field>
@@ -3366,7 +3484,9 @@
             <field>00N0K00000KnChh</field>
             <field>00N0K00000LDm10</field>
             <field>00N0K00000KnChi</field>
+            <field>00N0K00000LESSd</field>
             <field>00N0K00000LDM8j</field>
+            <field>00N0K00000LESSi</field>
             <field>00N0K00000LEKsx</field>
             <field>00N0K00000KnChj</field>
             <field>00N0K00000LEIZF</field>

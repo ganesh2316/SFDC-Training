@@ -22,13 +22,5 @@
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-Feed</tabs>
-<<<<<<< HEAD
-    <tabs>Job_Posting_Site__c</tabs>
-    <tabs>Product_Seller__c</tabs>
-    <tabs>Order__c</tabs>
-    <tabs>Customer_Detail__c</tabs>
-
-=======
->>>>>>> Application Level and Component Level Event Handling and Aura Methods
     <uiType>Lightning</uiType>
 </CustomApplication>
